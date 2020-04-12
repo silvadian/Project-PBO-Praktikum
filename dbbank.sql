@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 12 Apr 2020 pada 06.57
+-- Waktu pembuatan: 12 Apr 2020 pada 07.38
 -- Versi server: 10.4.6-MariaDB
 -- Versi PHP: 7.3.9
 
@@ -60,7 +60,8 @@ CREATE TABLE `tbnasabah` (
 --
 
 INSERT INTO `tbnasabah` (`id_nsb`, `nama`, `username`, `password`) VALUES
-(6789, 'Ganis Dwiarum', 'ganis', 'ganis');
+(1234, 'Ganis', 'ganis', 'ganis'),
+(1235, 'Sisil', 'Sisil', 'sisil');
 
 --
 -- Indexes for dumped tables
